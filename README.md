@@ -3,4 +3,8 @@
 
 包含Demo板资料，参考设计，寄存器手册，数据手册
 
-![image-20240219150652150](README/image-20240219150652150.png)
+Zhirong iSmart SW6208 Power Bank Chip Data Package
+
+Includes Demo Board Documentation, Reference Design, Register Manual, and Data Sheet.
+
+![image-20241231141526497](README/image-20241231141526497.png)
